@@ -1,2 +1,2 @@
 # Thesis_Project
-Some applications linked a financial research project
+Some applications linked to a financial research project
